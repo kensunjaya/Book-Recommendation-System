@@ -1,0 +1,22 @@
+Counts: 20
+
+0.41773 | C Programming Language Essentials (Essentials Study Guides)
+0.37998 | C# Essentials (Essentials (Prentice Hall))
+0.37811 | Oracle Pl/Sql Programming
+0.29409 | The AWK Programming Language
+0.29113 | Basic Essentials Archery (Basic Essentials Series)
+0.27267 | C# for Windows Programming
+0.27236 | Go
+0.25908 | Programming with Java w/ CD-ROM
+0.24294 | Essentials for Design QuarkXpress 6- Level 1
+0.24011 | Programming for Linguists: Perl for Language Researchers
+0.23907 | Beginning C# Web Applications with Visual Studio .NET
+0.23754 | Absolute C++ (2nd Edition)
+0.23549 | C How To Program 2ND Edition
+0.22779 | PC system programming for developers (Developer's series)
+0.21837 | Concepts in Programming Languages
+0.21693 | An Introduction to Assembly Language Programming and Computer Architecture
+0.21318 | Microsoft Visual Basic 2005 Express Edition Programming for the Absolute Beginner
+0.20481 | Game Programming Gems (Game Programming Gems (W/CD))
+0.20228 | Computing Concepts with C++ Essentials
+0.20129 | Becoming the Best Me: 10 Career and Character Essentials
