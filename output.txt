@@ -1,57 +1,164 @@
-Counts: 55
+Counts: 162
 
-0.44230 | Journey of the Software Professional: The Sociology of Software Development
-0.39742 | Encyclopedia of Software Engineering. Volumes I & II
-0.39369 | Bad Software: What to Do When Software Fails
-0.29572 | Building High-Performance Teams
-0.27499 | EPA/625/6-91/030 Handbook: Sewer System Infrastructure Analysis and Rehabilitation
-0.26810 | Software Creativity
-0.26785 | Object-Oriented Software Construction (Prentice-Hall International series in computer science)
-0.26512 | Managing a Programming Project
-0.23029 | Porting Unix Software: From Download to Debug (Nutshell Handbook)
-0.21773 | Creative Computer Tools for Artists: Using Software to Develop Drawings and Paintings
-0.21442 | IT Measurement: Practical Advice from the Experts
-0.21207 | Groupware, Workflow and Intranets: Re-engineering the Enterprise with Collaborative Software
-0.19094 | Process Control Modules: A Software Laboratory for Control Design
-0.18811 | Object Oriented Reengineering Patterns (The Morgan Kaufmann Series in Software Engineering and Programming)
-0.18372 | Pattern Languages of Program Design 4 (Software Patterns Series)
-0.18271 | Introduction To Security Printing
-0.17889 | The Complete Network Upgrade & Maintenance Guide
-0.17674 | How To Implement the CMM (Second Edition)
-0.15966 | Care and Repair of Shop Machines: A Complete Guide to Setup, Troubleshooting, and Maintenance
-0.15851 | An Introduction to Programming and Object Oriented Design Using Java
-0.15750 | Going International: How to Make Friends and Deal Effectively in the Global Marketplace (Plume)
-0.15602 | Modernizing Legacy Systems: Software Technologies, Engineering Processes, and Business Practices
-0.15461 | The Visit
-0.15226 | Iso 9001:2000 Achieving Compliance and Continuous Improvement in Software Development Companies
-0.15105 | Six Bridges
-0.14800 | Creating and Implementing Virtual Private Networks: The All-encompassing Resource for Implementing VPNs
-0.14334 | Emerging Free
-0.14004 | WINTER GRASS
-0.13839 | Systems Engineering and Analysis
-0.13609 | Internet! I Didn't Know You Could Do That...
-0.13347 | Tablesaw Methods of Work
-0.13075 | Unix System Readings and Applications Volume 1: Time Sharing System
-0.12871 | C++ Inside & Out/Covers Draft ANSI C++
-0.12441 | Behavioral Healthcare Informatics (Health Informatics)
-0.11699 | Windows Me for Busy People, Millennium Edition
-0.11669 | Beginning C# Web Applications with Visual Studio .NET
-0.11430 | Portland Bridge Book 3ed
-0.11405 | Railroad engineering
-0.11301 | Ask Mr. Modem
-0.11112 | The Home Owner's Manual: Operating Instructions, Troubleshooting Tips, and Advice on Household Maintenance
-0.10965 | Professional .NET Network Programming
-0.10940 | The Computer Font Book
-0.10930 | Conflicting Agents - Conflict Management in Multi-Agent Systems (Multiagent Systems, Artificial Societies, and Simulated Organizations Volume 1)
-0.10777 | The Synerjet Engine: Airbreathing/Rocket Combined-Cycle Propulsion for Tomorrow's Space Transports (Progress in Technology)
-0.10610 | Using Microsoft Windows 98: Platinum Edition (Platinum Edition Using...)
-0.10534 | Information Systems Control and Audit
-0.10518 | Software Quality Management and ISO 9001: How to Make Them Work for You
-0.10492 | Behind the Seen
-0.10482 | The Memory System
-0.10444 | Bioinformatics and Functional Genomics
-0.10219 | e-Directories: Enterprise Software, Solutions, and Services (With CD-ROM)
-0.10195 | Guppies, Keeping and Breeding
-0.10172 | Fearless Change: Patterns for Introducing New Ideas
-0.10066 | Object-Oriented Frameworks Using C++ and CORBA Gold Book: The Must-have Guide to CORBA for Developers and Programmers
-0.10008 | COM/DCOM Blue Book: The Essential Learning Guide for Component-Oriented Application Development for Windows
+1.00000 | The Church of Christ: A Biblical Ecclesiology for Today
+0.99869 | Lincoln reconsidered;: Essays on the Civil War era
+0.99854 | Goliath
+0.99853 | Islam and Mammon: The Economic Predicaments of Islamism
+0.99850 | The Ground and Grammar of Theology
+0.99848 | Important trees of the Ryukyu Islands (Tokubetsu hokoku)
+0.99836 | Dr. Seuss: American Icon
+0.99829 | Bruce Lee: The Incomparable Fighter
+0.99827 | Napoleon (A Mentor book)
+0.99822 | A Titanic Journey Across the Sea 1912 (American Sisters)
+0.99821 | King James: Believe the Hype---The LeBron James Story
+0.99814 | Chocolate: The Sweet History
+0.99813 | History of Magic and the Occult
+0.99809 | The History and Theory of Rhetoric: An Introduction (2nd Edition)
+0.99806 | The Klutz Book of Jacks
+0.99803 | Last Words of Saints and Sinners
+0.99803 | Beginner's Yoruba (Hippocrene Beginner's Series)
+0.99803 | Voices from the Farm: Adventures in Community Living
+0.99795 | Mensa Number Puzzles (Mensa Word Games for Kids)
+0.99792 | The Art of Technical Documentation, Second Edition
+0.99788 | Overcoming Hypertension (Dr. Kenneth H. Cooper's Preventive Medicine Program)
+0.99782 | A husband for Kutani
+0.99782 | The Oxford Handbook of Free Will (Oxford Handbooks)
+0.99780 | Eyewitness Travel Guide to Europe
+0.99780 | Cinema and Soviet Society; From the Revolution To the Death of Stalin.
+0.99778 | America at 1750: A Social Portrait
+0.99777 | Forging the Prairie West (Illustrated History of Canada)
+0.99777 | Infants, Children, and Adolescents (with Interactive Companion Website) (4th Edition)
+0.99775 | Alaska Sourdough
+0.99775 | Isaac Asimov: Master of Science Fiction (People to Know)
+0.99775 | Rodin in His Time: The Cantor Gifts to the Los Angeles County Museum of Art
+0.99774 | Usa Laminated Map
+0.99774 | Portraits of the Presidents: The National Portrait Gallery
+0.99771 | The Urban Primitive: Paganism in the Concrete Jungle
+0.99768 | The Ears of Corn (Ike and Mem Story)
+0.99766 | Open marriage;: A new life style for couples,
+0.99764 | Brain-Based Learning: The New Science of Teaching and Training, Revised Edition
+0.99763 | Are We Alone?: The Possibility of Extraterrestrial Civilizations
+0.99762 | The Science of Cold Case Files
+0.99760 | The Unquiet Grave
+0.99757 | Old-Fashioned Ckbk
+0.99753 | Immaterial Facts: Freud's Discovery of Psychic Reality and Klein's Development of His Work
+0.99753 | Rising Sons and Daughters: Life Among Japan's New Young
+0.99750 | Eco-Terrorism & Eco-Extremism Against Agriculture
+0.99749 | Building the timber frame house: The revival of a forgotten craft
+0.99749 | Jambalaya: Hal Leonard Student Piano Library Composer Showcase 2 Pianos, 8 Hands
+0.99749 | The Handbook of Community Practice
+0.99748 | Economics in one lesson
+0.99748 | Ricky Williams: Dreadlocks to Ditka
+0.99747 | Hunting The Hard Way
+0.99745 | The Tao of I Ching: Way to Divination
+0.99745 | The ancient constitution and the feudal law,: A study of English historical thought in the seventeenth century
+0.99745 | Information Breakthrough (Psi Successful Business Library)
+0.99743 | Information Theory in Analytical Chemistry (Chemical Analysis: A Series of Monographs on Analytical Chemistry and Its Applications)
+0.99743 | The Repeal of Reticence: A History of America's Cultural and Legal Struggles over Free Speech, Obscenity, Sexual Liberation, and Modern Art
+0.99742 | Tales from silver lands
+0.99742 | Death Dream
+0.99741 | Audi Quattro: The Complete Story
+0.99741 | The Web That Has No Weaver: Understanding Chinese Medicine
+0.99740 | God was in this place & I, i did not know: Finding self, spirituality, and ultimate meaning
+0.99740 | 103 Great Poems: A Dual-Language Book (Dover Dual Language German) (German and English Edition)
+0.99739 | Dramatica for Screenwriters
+0.99738 | Jimmy Jam Germ And the Happy Handshake (The Adventures of Thumbs Up Johnnie)
+0.99738 | Gold and greenstone
+0.99738 | Alternative Chicago: Unique Destinations Beyond the Magnificent Mile
+0.99737 | The Complete Illustrated Guide to Chinese Medicine: A Comprehensive System for Health and Fitness
+0.99735 | Introduction To Mathematics for Life Scientists
+0.99734 | How to Become a Winner In Your Relationship: Let No One Move You from the Place God Put You
+0.99734 | The Rabbi's Cat
+0.99732 | By Honor Bound (The Lassiter Law) (Silhouette Intimate Moments)
+0.99732 | Behind the Moon
+0.99731 | Gorilla
+0.99730 | Pyrography Designs
+0.99730 | A Dose of Sanity: Mind, Medicine, and Misdiagnosis
+0.99728 | A grand romance: A play
+0.99725 | Itten The Elements of Color
+0.99725 | Encyclopedia of Software Engineering. Volumes I & II
+0.99725 | You Can Do It! Cheerleading
+0.99725 | Hidden History of the Kovno Ghetto
+0.99722 | Muchas vidas, muchos sabios
+0.99722 | Academic Freedom after September 11
+0.99721 | The New Conspiracy Reader: From Planet X to the War on Terrorism-What You Really Don't Know
+0.99721 | New sounds: A listener's guide to new music
+0.99720 | Vector Quantization and Signal Compression (The Springer International Series in Engineering and Computer Science)
+0.99720 | Inside Oscar: the Unofficial History of the Academy Awards
+0.99718 | Immodest Acts: The Life of a Lesbian Nun in Renaissance Italy
+0.99717 | The Impatient Gardener's Lawn Book
+0.99715 | Cognitive Development (Routledge Modular Psychology)
+0.99715 | Tomorrow Will Be Better: A True Story of Love and One Family's Triumph over the Horrors of World War II
+0.99711 | Poems of the Pearl Manuscript (Exeter Medieval Texts and Studies)
+0.99711 | Bye-Bye, Mom and Dad
+0.99710 | Foreignisms: A dictionary of foreign expressions commonly (and not so commonly) used in English
+0.99710 | How to Discipline Kids without Losing Their Love and Respect
+0.99709 | Nudes
+0.99708 | Arnold's Bodyshaping for Women
+0.99707 | Handbook of Environmental and Resource Economics
+0.99706 | Muslim Women's Choices: Religious Belief and Social Reality (Cross Cultural Perspectives on Women)
+0.99705 | FORCE, RECIPROCAL FORCE AND COMPRESSION CAUSE GRAVITY
+0.99704 | Haiku: One Breath Poetry
+0.99704 | Tess and the Highlander
+0.99703 | The ABAP Quick Reference
+0.99702 | El Gaucho Martin Fierro/the Gaucho Martin Fierro (Bilingual Edition) (Spanish Edition)
+0.99702 | The Complete Book of Papercrafts: A Truly ComprehensiveCollection of Papercrafts Ideas, Designs and Techniques, with Over 300 Projects
+0.99701 | Paolo Di Canio Hb
+0.99698 | The Mask of Priam
+0.99697 | The Living Company
+0.99697 | albert einstein, young thinker [ Childhood of Famous Americans series]
+0.99694 | I Spy: 4 Picture Riddle Books (School Reader Collection Lvl 1: (Scholastic Reader Collection)
+0.99689 | Guide to Owning a Birman Cat (Popular Cat Library)
+0.99689 | Guide to Owning a Burmese Cat (Popular Cat Library)
+0.99687 | Baseball Prospectus: 2001 Edition
+0.99677 | Florida Birds: An Introduction to Familiar Species (State Nature Guides)
+0.99674 | The Ultimate Guide to Law School Admission: Insider Secrets for Getting a "Big Envelope" with Your Acceptance to Law School!
+0.99673 | Lost Cities of Africa and Arabia (The Lost City Series)
+0.99671 | Spooky Kids: Strange But True Tales
+0.99670 | Victoria Magazine July 1994
+0.99669 | Compendium of Herbal Magick
+0.99655 | My World and Welcome to It
+0.99654 | Guns for General Washington: A Story of the American Revolution (Great Episodes)
+0.99651 | Night World: Daughters Of Darkness
+0.99648 | Witches' Way, The
+0.99636 | RETRIEVER TRAINING FOR THE DUCK HUNTER
+0.99625 | The Jester's Quest (Winds of Light, Book 7)
+0.99599 | Wonderful Worship in Smaller Churches
+0.99581 | Saint Hyacinth of Poland
+0.99557 | The book of the lover and the beloved;
+0.99504 | Natural Wonders of the World: Converting Measurements to Metric Units (Powermath)
+0.99496 | Ancient Israel
+0.99468 | The Battleship Bismarck
+0.99228 | No place to cry: The hurt and healing of sexual abuse
+0.99134 | JFK: The Last Dissenting Witness
+0.99036 | Plain And Simple - A Woman's Journey To The Amish
+0.98837 | THE SECULAR CITY -SECULARIZATION AND URBANIZATION IN THEOLOGICAL PERSPECTIVE
+0.98620 | Josef Fuchs on Natural Law (Moral Traditions series)
+0.98520 | A Prayer for the Government: Ukrainians and Jews in Revolutionary Times, 1917-1920 (Harvard Series in Ukrainian Studies)
+0.96590 | La Doctora: The Journal of an American Doctor Practicing Medicine on the Amazon River
+0.65629 | Whispers of the Wicked Saints
+0.63146 | Cascade Point and Other Stories
+0.62969 | Shackle and Sword
+0.61519 | Eight Men And A Lady (Elizabeth Sinclair, Harlequin American Romance, No. 677)
+0.58914 | Dead Sexy
+0.57860 | Seance
+0.57692 | Anna Karenina. (Lernmaterialien)
+0.56640 | The Forbidden Stories of Marta Veneranda
+0.56250 | Poltergeist: The Legacy 01: The Hidden Saint
+0.55713 | The Monkey's Paw
+0.54915 | Space Stations and Graveyards
+0.54413 | From Potter's Field
+0.54137 | The Starchild Trilogy
+0.53886 | The Food Of Love
+0.52762 | Cruel and Unusual (G K Hall Large Print Book Series (Cloth))
+0.52268 | Riverworld and Other Stories
+0.52265 | Voices in Summer
+0.51936 | Perry Mason in the Case of Too Many Murders
+0.50023 | Deadville
+0.49751 | Days of Grass
+0.49392 | Sheikh (Mills & Boon Historical)
+0.49387 | Heartwood: Trickster's Game #1
+0.47703 | Edge of Danger
+0.46628 | Born In Secret (Firstborn Sons) (Silhouette Intimate Moments)
+0.44487 | Musings of an Eccentric Dreamer: An Anthology of Love Poetry
+0.37270 | Love Rekindled: A Novel
