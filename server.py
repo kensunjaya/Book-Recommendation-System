@@ -1,3 +1,14 @@
+# Description: This file contains the code for the Flask server that will be used to serve the book recommendation system.
+# The server will be hosted on the local machine and will provide a REST API endpoint to get book recommendations based on a given book title.
+
+# %pip install flask
+# %pip install flask-cors
+# %pip install transformers
+# %pip install torch
+# %pip install pandas
+# %pip install numpy
+# %pip install scikit-learn
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
